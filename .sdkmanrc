@@ -1,0 +1,7 @@
+# SDKMAN config file
+# https://sdkman.io
+#
+# Add key=value pairs of SDKs to use below
+
+java=11.0.12-open
+maven=3.8.2
